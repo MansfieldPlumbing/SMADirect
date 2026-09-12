@@ -1,0 +1,10 @@
+/.research/
+/build/
+
+*.user
+*.suo
+*.obj
+*.exe
+*.lib
+*.exp
+*.bak
